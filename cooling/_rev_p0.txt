@@ -1,0 +1,36 @@
+Renewable and Sustainable Energy Reviews  
+Pool boiling on engineered silicon surfaces: From fundamental mechanisms to
+immersion cooling of high-power electronics
+--Manuscript Draft--
+ 
+Manuscript Number: RSER-D-26-03910
+Article Type: Review Article
+Section/Category: Thermal Processes (including biomass, gasification, waste heat recovery)
+Keywords: Capillarity;  critical heat flux;  immersion cooling;  pool boiling;  silicon;  surface
+engineering
+Abstract: Escalating power densities in electronic systems have rendered conventional cooling
+technologies increasingly inadequate, motivating renewed interest in two-phase
+immersion cooling and other high-heat-flux thermal-management strategies. As silicon
+remains the dominant material platform for electronic devices, understanding pool
+boiling on engineered silicon surfaces is essential for the thermal design of next-
+generation electronic cooling systems. This review examines pool boiling on silicon
+substrates, emphasizing surface-engineering strategies spanning nanostructured,
+microstructured, hierarchical, and hybrid-wettability designs. By analyzing boiling
+behavior through a unified near-field/far-field framework specific to engineered silicon
+surfaces, the review distinguishes surface-controlled interfacial mechanisms, including
+nucleation, capillary-driven liquid replenishment, and microlayer stability, from larger-
+scale vapor-transport constraints that ultimately limit CHF. Water is considered
+primarily as a benchmark fluid for elucidating the underlying boiling physics on silicon
+surfaces, whereas dielectric fluids are discussed for their direct relevance to
+immersion-cooling applications. Cross-scale analysis shows that, for high-surface-
+tension fluids, CHF enhancement converges toward a common upper bound,
+indicating that surface engineering governs proximity to a hydrodynamic ceiling rather
+than redefining the absolute heat-removal limit of the heated component. In contrast,
+for low-surface-tension dielectric fluids, CHF decreases systematically with increasing
+normalized capillary parameter Bo*, indicating that vapor-removal constraints dominate
+the boiling crisis and limit the effectiveness of capillary-based surface strategies.
+Finally, future research directions are outlined, emphasizing advanced diagnostics,
+cross-scale experimental databases, and reliability-oriented data-driven frameworks for
+the predictive design of silicon-based boiling surfaces for high-power electronic
+cooling.
+Powered by Editorial Manager® and ProduXion Manager® from Aries Systems Corporation

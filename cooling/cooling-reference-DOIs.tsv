@@ -1,0 +1,27 @@
+ref	doi	cite_as	status
+19	10.1109/itherm.2019.8757253	Boteler et al. 2019, ITHERM	add-by-DOI
+20	10.1016/j.ijheatmasstransfer.2024.125455	Yan et al. 2024, IJHMT 226 125455	REPLACES old [20]
+22	10.1016/j.ijheatmasstransfer.2016.05.040	Shao et al. 2016, IJHMT 101 764	add-by-DOI
+23	10.1016/j.ijheatmasstransfer.2017.09.039	Gonzalez-Nino et al. 2018, IJHMT 116 512	add-by-DOI
+24	10.1016/j.physleta.2006.09.041	Ma & Liu 2007, Phys Lett A 361 252	add-by-DOI
+26	10.1016/j.mineng.2003.08.003	Moskalyk 2003, Miner Eng 16 921	add-by-DOI
+28	10.1109/tcpmt.2021.3111114	Bar-Cohen et al. 2021, IEEE T-CPMT 11 1546	add-by-DOI
+29	10.1007/s00339-009-5098-1	Deng & Liu 2009, Appl Phys A 95 907	add-by-DOI
+30	10.1016/j.ijheatmasstransfer.2019.119055	Zhang et al. 2020, IJHMT 148 119055	add-by-DOI
+31	10.1016/j.scitotenv.2025.179046	Guan et al. 2025, Sci Total Environ 971 179046	add-by-DOI
+33	10.1016/j.ijheatmasstransfer.2019.118918	Birbarah et al. 2020, IJHMT 147 118918	add-by-DOI
+34	10.1063/1.5013623	Yang et al. 2018, Appl Phys Lett 112 063505	add-by-DOI
+35	10.1109/tcpmt.2019.2930089	Yang et al. 2019, IEEE T-CPMT 9 2341	add-by-DOI
+36	10.1038/s41928-022-00748-4	Gebrael et al. 2022, Nat Electron 5 394	add-by-DOI
+37	10.1016/j.ijheatmasstransfer.2019.118497	Rajagopal et al. 2019, IJHMT 143 118497	add-by-DOI
+38	10.1016/0364-5916(90)90013-p	Rugg & Chart 1990, Calphad 14 115	add-by-DOI
+39	10.1023/a:1026373602352	Zivkovic et al. 2003, JTAC 74 85	add-by-DOI
+40	10.1016/j.tca.2003.10.020	David et al. 2004, Thermochim Acta 413 127	add-by-DOI
+41	10.1179/030634578790434025	Evans & Prince 1978, Metal Science 12 411	add-by-DOI
+42	10.1016/0364-5916(91)90030-n	Dinsdale 1991, Calphad 15 317	add-by-DOI
+43	10.5334/jors.140	Otis & Liu 2017, JORS 5 1 (canonical, not the reprint)	add-by-DOI
+44	10.1021/je400882q	Plevachuk et al. 2014, J Chem Eng Data 59 757	add-by-DOI
+45	10.1557/mrc.2019.59	Bocklund et al. 2019, MRS Comm 9 618 (canonical, not the reprint)	add-by-DOI
+46	10.1007/s11837-017-2318-6	Otis & Liu 2017, JOM 69 886	add-by-DOI
+new	10.1126/science.277.5330.1237	Olson 1997, Science 277 1237 (paradigm ref, currently missing)	ADD
+new	10.1007/s10973-024-13035-5	Bustamante, Lilova, Navrotsky, Harvey, Oishi 2024, JTAC 149 4817 (author's own Ga-In-Sn calorimetry, anchor for sect 5/9)	ADD (merge)

@@ -1,0 +1,20 @@
+Renewable and Sustainable Energy Reviews  
+Cooling Materials for Sustainable Compute Waste-Heat Recovery: A Three-Generation
+Review of Dielectric Fluids, Gallium-Based Liquid Metals, and Embedded Two-Phase
+Systems
+--Manuscript Draft--
+ 
+Manuscript Number:
+Article Type: Review Article
+Section/Category: Materials
+Keywords: Keywords: Data centre cooling;  Sustainable thermal management;  Waste heat
+recovery;  District heating;  Immersion cooling;  Direct-to-chip cooling;  Gallium liquid
+metals;  Phase-change materials;  Lifecycle CO₂ displacement;  Carnot exergy;
+Breakeven grid intensity.
+Corresponding Author: Michael Bustamante, Ph.D.
+Arizona State University
+Tempe, AZ UNITED STATES OF AMERICA
+First Author: Michael Bustamante, Ph.D.
+Order of Authors: Michael Bustamante, Ph.D.
+Abstract: Compute infrastructure consumes a meaningful share of global electricity. Bitcoin
+mining uses 138–211 TWh

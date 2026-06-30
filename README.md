@@ -1,51 +1,19 @@
-# GaInSn-CALPHAD
+# Gallium
 
-Reproducibility package for:
+Odinzen's gallium and gallium-alloy work, grouped in one place: the thermodynamic
+assessment, the supercooling-nucleant study, and the thermal-management review.
 
-**A CALPHAD assessment of the Ga-In-Sn liquidus for designable low-melting liquid-metal coolants**
-Michael E. Bustamante, Kristina Lilova
+Apache-2.0 (see LICENSE).
 
-*Submitted to CALPHAD, 2026*
+## Projects
+- `gainsn-calphad/` - Ga-In-Sn CALPHAD assessment: the thermodynamic assessment of the
+  gallium-indium-tin system (databases, figures, scripts, bibliography). Published work.
+- `nucleant/` - "Stability-filtered lattice matching for supercooling nucleants in gallium
+  and its low-melting alloys" (ACS manuscript): which crystalline nucleants reduce gallium's
+  supercooling, filtered by phase stability. Manuscript + figures + reference-integrity report.
+- `cooling/` - "Materials Design for Compute Thermal Management: From Dielectric Fluids to
+  Gallium-Based Cooling Systems" (Energy review): gallium-based liquid-metal cooling for
+  electronics. Manuscript versions, submission package, figures, reference audit.
 
----
-
-## Contents
-
-| Path | Description |
-|------|-------------|
-| `databases/GaInSn_fitted.tdb` | Fitted Ga-In-Sn database (ternary L = -8000 J/mol) |
-| `databases/GaInSn.tdb` | Muggianu extrapolation, no ternary term |
-| `databases/InSn_David2004.tdb` | In-Sn binary (David et al. 2004) |
-| `databases/GaInSn_CALPHAD_parameters.txt` | Assessed parameters in plain text |
-| `scripts/fit_gasn.py` | Nonlinear least-squares fit of Ga-Sn Redlich-Kister parameters |
-| `scripts/fit_ternary.py` | Ternary parameter fit to Evans and Prince eutectic temperature |
-| `scripts/tern_fitted.py` | Ternary liquidus surface (fitted, 1275-point mesh) |
-| `scripts/tern_full.py` | Ternary liquidus surface (Muggianu extrapolation) |
-| `scripts/make_paper_figs.py` | Binary phase diagrams and isopleths (Figs. 1-3, 8) |
-| `scripts/run_pbsn2.py` | Pb-Sn control calculation |
-| `scripts/refine_tern.py` | High-resolution eutectic finder |
-| `scripts/sensitivity_check.py` | Sensitivity table (Table 3 of main text) |
-| `figures/` | Manuscript figures (Fig1-Fig8) |
-
-## Requirements
-
-Python 3.10+, pycalphad >= 0.10, numpy, scipy, matplotlib. All available via conda-forge:
-
-```
-conda create -n gainSn -c conda-forge pycalphad numpy scipy matplotlib
-conda activate gainSn
-```
-
-Run each script from the repo root (the directory containing `databases/` and `scripts/`):
-
-```
-python scripts/make_paper_figs.py
-```
-
-## Data availability
-
-Pre-computed composition meshes (`tern_fitted_grid.npy`, `tern_full_grid.npy`) are deposited on Zenodo (DOI assigned on acceptance). Regenerate locally by running `tern_fitted.py` and `tern_full.py`.
-
-## License
-
-Code and databases: MIT License. Figures: CC BY 4.0.
+Each subfolder is a self-contained project; they share the gallium theme and are kept
+together so the line of work is visible in one repo.

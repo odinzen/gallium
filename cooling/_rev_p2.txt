@@ -1,0 +1,95 @@
+Nomenclature 32 
+Symbols  
+𝐵𝑜∗ Composite non-dimensional capillary parameter  
+𝑑 Diameter of nanopillar (m)  
+𝑔 Gravitational acceleration (m/s2)  
+ℎ Height of nanowires/structures (m)  
+ℎ𝑐𝑎𝑝 Capillary height (m)  
+ℎ𝑓𝑔 Specific enthalpy of vaporization (J/kg)  
+𝑙 Length of nanopillar (m)  
+𝐿 Characteristic dimension of the heating element (m)  
+𝐿′ Non-dimensional heater size  
+𝐿𝑐 Characteristic capillary length (m)  
+𝑙𝜎 Capillary length of the fluid (m)  
+𝑚̇ 𝑒𝑣𝑝 Evaporation mass flux (kg/m2. s)  
+𝑚̇ 𝑠 Liquid (supply) mass flux (kg/m2. s)  
+𝑃 Pitch (m)  
+𝛥𝑃𝑐𝑎𝑝 Capillary pressure gradient (Pa)  
+𝑞𝐶𝐻𝐹 Critical heat flux (W/cm2)  
+𝑟 Pore radius (m)  
+𝑅𝑒𝑓𝑓 Effective curvature radius of surface texture (m)  
+𝑅𝑖𝑛𝑡 Internal conductive resistance (°C, K/W)  
+𝑟𝑝𝑜𝑟𝑒 Pore radius (m)  
+𝑊 Wicking coefficient (m/s)  
+   
+Greek  
+𝜃 Static contact angle (°)  
+𝜌𝑙 Density of liquid (kg/m3)  
+𝜌𝑣 Density of vapor (kg/m3)  
+𝜎 Surface tension (N/m)  
+∅ Solid fraction of the nanowire  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 

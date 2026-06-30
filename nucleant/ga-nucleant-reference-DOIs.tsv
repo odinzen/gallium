@@ -1,0 +1,21 @@
+ref	doi	cite_as	status
+1	10.1016/j.ijheatmasstransfer.2019.119055	Zhang et al. 2020, IJHMT 148 119055	add-by-DOI
+2	10.1038/s41467-020-16372-9	Niu et al. 2020, Nat Commun 11 2654	add-by-DOI; ORPHAN - cite in text or drop
+3	10.1016/j.chemer.2022.125915	Majzlan et al. 2022, Geochemistry 82 125915	add-by-DOI; ORPHAN - cite in text or drop
+4	10.1016/j.mtla.2019.100512	Koh et al. 2019, Materialia 8 100512	add-by-DOI
+5	10.1063/1.1699435	Turnbull 1950, J Appl Phys 21 1022	add-by-DOI
+6	10.1007/bf02642799	Bramfitt 1970, Metall Trans 1 1987	add-by-DOI
+7	10.1021/ie50510a036	Telkes 1952, Ind Eng Chem 44 1308	add-by-DOI
+8	10.1111/j.1551-2916.2004.00683.x	Zinkevich & Aldinger 2004, J Am Ceram Soc 87 683	add-by-DOI
+9	10.1007/s11669-025-01175-6	Gosse 2025, J Phase Equilib Diffus 46 20	add-by-DOI (keep Gosse accent)
+10	10.1016/j.isci.2023.106493	Joshipura et al. 2023, iScience 26 106493	add-by-DOI
+11	10.1063/5.0060207	Chakravarty et al. 2021, J Appl Phys 130 125107	add-by-DOI
+12	10.1002/advs.202310185	Ki et al. 2024, Adv Sci 11 2310185	add-by-DOI
+13	10.1063/1.3645596	Cao et al. 2011, Appl Phys Lett 99 143120	add-by-DOI (Crossref initials L./H./K. correct, not Y./J./T.)
+14	10.5334/jors.140	Otis & Liu 2017, JORS 5 1	add-by-DOI
+15	10.1063/1.4812323	Jain et al. 2013, APL Mater 1 011002	add-by-DOI
+16	10.1021/ci00038a003	Bergerhoff et al. 1983, J Chem Inf Comput Sci 23 66	add-by-DOI
+17	(none - monograph)	Chase 1998, NIST-JANAF Tables 4th ed, JPCRD Monograph 9	gray-lit; enter by hand (book), no DOI
+18	10.1063/1.1697813	Vonnegut 1947, J Appl Phys 18 593	add-by-DOI
+19	(none - book)	Kelton & Greer 2010, Nucleation in Condensed Matter, ISBN 978-0-08-042147-6	gray-lit; enter by hand; cite in text or drop
+20	10.1002/andp.19063240204	Einstein 1906, Ann Phys 324 289 (keep umlaut Moleküldimensionen)	add-by-DOI

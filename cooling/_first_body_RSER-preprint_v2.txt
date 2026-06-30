@@ -1,0 +1,13 @@
+Materials Design for Compute Thermal Management:
+From Dielectric Fluids to Gallium-Based Cooling Systems
+Michael Bustamante
+Odinzen LLC, Houston, TX, United States
+E-mail: michaelbusta@odinzen.io
+Preprint v2 — under review at Renewable & Sustainable Energy Reviews (RSER), 2026
+Abstract
+Nearly all electricity consumed by compute infrastructure exists in the facility as thermal energy. Bitcoin  
+mining consumes 138–211 TWh annually; AI data centers are projected to exceed 1,000 TWh by end of  
+2026. This article examines compute thermal management as a materials design problem. Current first-
+generation immersion cooling uses dielectric fluids (thermal conductivity 0.06–0.14 W/m·K) that capture  
+waste  heat  at  65–75  °C,  directly  usable  for  district  heating  without  heat  pumps.  Six  operational 
+deployments are documented, with lifecycle CO2 displacement estimated at 2,000–3,800

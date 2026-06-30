@@ -1,0 +1,19 @@
+Applied Thermal Engineering  
+Materials Design for Compute Thermal Management From Dielectric Fluids to Gallium-
+Based Cooling Systems
+--Manuscript Draft--
+ 
+Manuscript Number:
+Article Type: Review Article
+Keywords: Immersion cooling;  Gallium;  Phase-change materials;  Dielectric fluids;  Waste heat
+recovery;  Thermal management
+Corresponding Author: Michael Bustamante
+Arizona State University - Tempe Campus
+Tempe, AZ UNITED STATES OF AMERICA
+First Author: Michael Bustamante
+Order of Authors: Michael Bustamante
+Abstract: Nearly all electricity consumed by compute infrastructure exits the facility as thermal
+energy. Bitcoin mining consumes 138–211 TWh annually; AI data centers are
+projected to exceed 1,000 TWh by end of 2026. This article examines compute thermal
+management as a materials design problem. Current first-generation immersion
+cooling uses dielectric fluids (thermal conductiv

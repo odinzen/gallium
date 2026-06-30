@@ -16,3 +16,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# local-only reference literature cache (not committed)
+literature/

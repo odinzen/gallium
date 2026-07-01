@@ -19,3 +19,10 @@ Thumbs.db
 
 # local-only reference literature cache (not committed)
 literature/
+
+# --- Own TDBs live in the shared vault: odinzen_assessment_workspace/assets/tdb-store/ ---
+# Not committed here (single copy, no duplicates). Pull a local copy for running scripts:
+#   python fetch_tdbs.py gainsn        (see fetch_tdbs.py; needs the workspace checked out beside this repo)
+# InSn_David2004.tdb is a THIRD-PARTY input database, not ours -> stays tracked.
+gainsn-calphad/databases/GaInSn.tdb
+gainsn-calphad/databases/GaInSn_fitted.tdb

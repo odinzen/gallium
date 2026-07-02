@@ -17,12 +17,11 @@ computational thermodynamics applied to cooling-materials selection for compute 
 https://odinzen.io/
 
 ## Manuscript metrics
-- Word count (main text, excluding references): ~7,200 (current Energy draft; will rise if the
-  integration-plan additions are folded in)
+- Word count (main text, excluding references): ~7,500
 - Figures: 10 (see `figures/`); 1 graphical abstract [to be produced]
-- Tables: 0 in main text (a CALPHAD parameter table is recommended for Supplementary)
-- References: 46 (current); +2 confirmed additions (Olson; the author's JTAC 2024 calorimetry paper),
-  more if integration-plan content is added
+- Tables: 4 in main text (Table 4 = cross-generation performance comparison, Section 10);
+  a CALPHAD parameter table is recommended for Supplementary
+- References: 38 (final, in citation order)
 - Supplementary Material: recommended — Ga–In/Ga–Sn/In–Sn Redlich–Kister parameters and the fitted
   ternary term (addendum Tables 1–9), so the §9 computation is reproducible
 

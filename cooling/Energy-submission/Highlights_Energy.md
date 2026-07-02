@@ -10,7 +10,7 @@ five already in the manuscript; character counts checked.
 - Immersion in dielectric fluid captures heat at 65–75 °C for district heating.       (76)
 - Gallium liquid metals raise capture temperature and conductivity 200–600 times.     (80)
 - A computed Ga–In–Sn liquidus matches the Galinstan eutectic near 10.7 °C.           (72)
-- The coolant melting range is a designable property, not a catalogue choice.         (75)
+- Seven configurations span air cooling to 3,000 W/cm² two-phase microchannels.       (76)
 
 NOTE: count an en-dash and "°C" as one character each in Elsevier's counter; the values above treat
 them as single characters and all sit under 85. Re-verify in the submission form.

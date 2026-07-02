@@ -17,8 +17,24 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# local-only reference literature cache (not committed)
-literature/
+# reference literature cache: ignore everything EXCEPT own-generated data types, which MUST stay
+# trackable (calorimetry/XRD/databases can land here; the 2026-07-02 data-loss incident). Publisher
+# PDFs, working docs, figures, and scripts stay ignored; the data formats below surface in git status.
+literature/**
+!literature/**/
+!literature/**/*.xlsx
+!literature/**/*.xls
+!literature/**/*.xlsm
+!literature/**/*.csv
+!literature/**/*.tsv
+!literature/**/*.xy
+!literature/**/*.cif
+!literature/**/*.accdb
+!literature/**/*.mdb
+!literature/**/*.dat
+!literature/**/*.db
+!literature/**/*.sqlite
+!literature/**/*.json
 
 # --- Own TDBs live in the shared vault: odinzen_assessment_workspace/assets/tdb-store/ ---
 # Not committed here (single copy, no duplicates). Pull a local copy for running scripts:
